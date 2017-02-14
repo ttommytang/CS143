@@ -1,0 +1,2 @@
+This is the project 2B of CS143. By: Hangjie Shi(UID:104591649 email:hangjie@ucla.edu) Yingchao Tang(UID:404592020, email:yctang19325@g.ucla.edu)
+In this part, we only modified the BTreeNode.h and BTreeNode.cc based on p2a.

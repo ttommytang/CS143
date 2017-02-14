@@ -1,0 +1,34 @@
+footer {
+    margin: 50px 0;
+    width:960px;     
+    height:200px;
+}
+
+.bottom {
+    background-color: #373737;
+    margin: 50px 0;
+}
+.bottom .container {
+    text-align: center;
+    background-color: #373737;
+    min-height: 50px;
+}
+
+.bottom .container h3 {
+    color: #999;
+}
+.bottom .container h3:hover {
+    color: #fff;
+}
+
+.bottom .container p {
+    color: #666;
+}
+
+
+.bottom .container a{
+    color:#999;
+}
+.bottom .container a:hover{
+    color:#fff;
+}
